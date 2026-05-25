@@ -1,0 +1,6 @@
+Ventas totales: 21500
+mes
+1    8000
+2    6500
+3    7000
+Name: amount, dtype: int64
